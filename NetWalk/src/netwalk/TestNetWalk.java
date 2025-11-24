@@ -6,10 +6,9 @@ package netwalk;
 
 /**
  *
- * @author eiriart
  * @author ntessier
  */
-public class TestTuile {
+public class TestNetWalk {
 
     /**
      * @param args the command line arguments

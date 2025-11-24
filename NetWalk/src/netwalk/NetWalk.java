@@ -7,6 +7,7 @@ package netwalk;
 /**
  *
  * @author eiriart
+ * @author ntessier
  */
 public class NetWalk {
     
